@@ -36,7 +36,7 @@ CREATE TABLE sal_log (
 -- Insert the values in the employee table
 insert into employed values(1,'THANJI','AIDS',1000000);
 insert into employed values(2,'Santhosh','CSE',500000);
-
+```
 ### Create employee table
 ![image](https://github.com/22009011/Ex-No-5-Creating-Triggers-using-PL-SQL/assets/118343461/96a0e4a0-ef4a-4064-bffd-3016445b8edd)
 
